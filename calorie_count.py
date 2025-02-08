@@ -140,6 +140,9 @@ Jan21_25 = EG + GY + LCC + LCC + 2.96*BN + 4.3*NO + PN + LN + 1.58*BP
 Jan24_25 = GY + LN + LCC + LCC + 3.48*BN + 2.53*BN + 5.25*NO + MR + 2.13*CR + (1*CU*4.25)
 Jan27_25 = ZS*0.85 + 1.06*BP + SN + LCC + GY + PN + 2.05*CR
 Jan29_25 = GY + LCC + LCC + PN + 0.58*BP + 3.32*BN + 2.66*BN + (1*CU*4.25) + 1.78*CR
+Feb2_25 = PN + 4.5*CB + 1.89*BN + 1.6*BN + 1.29*BR + 4.77*NO + LCC + GY + LCC + MR + 1.35*CR
+Feb4_25 = 2.39*BN + 2.55*BN + 1.15*BP + PN + LCC + GY + SN + (1*CU*4.25) + 2.19*CR + 5.73*NO
+Feb7_25 = 5.62*NO + MR + PN + GY + 6.09*BN + LCC + LCC + 0.9*BR + 1.03*BP + (1*CU*4.25) + 2.31*ZS
 
 
 
@@ -151,6 +154,7 @@ Oct24 = Oct2_24 + Oct5_24 + Oct9_24 + Oct11_24 + Oct14_24 + Oct16_24 + Oct18_24 
 Nov24 = Nov1_24 + Nov4_24 + Nov7_24 + Nov10_24 + Nov14_24 + Nov17_24 + Nov20_24 + Nov24_24 + Nov27_24
 Dec24 = Dec1_24 + Dec3_24 + Dec6_24 + Dec9_24 + Dec12_24 + Dec16_24 + Dec19_24 + Dec22_24 + Dec24_24 + Dec27_24 + Dec30_24
 Jan25 = Jan2_25 + Jan5_25 + Jan8_25 + Jan12_25 + Jan15_25 + Jan19_25 + Jan21_25 + Jan24_25 + Jan27_25 + Jan29_25
+Feb25 = Feb2_25 + Feb4_25 + Feb7_25
 
 
 print("6/2/2024", June2_24)
@@ -230,6 +234,9 @@ print("1/21/2025", Jan21_25)
 print("1/24/2025", Jan24_25)
 print("1/27/2025", Jan27_25)
 print("1/29/2025", Jan29_25)
+print("2/2/2025", Feb2_25)
+print("2/4/2025", Feb4_25)
+print("2/7/2025", Feb7_25)
 
 
 print("June 2024", Jun24)
@@ -240,5 +247,6 @@ print("October 2024", Oct24)
 print("November 2024", Nov24)
 print("December 2024", Dec24)
 print("January 2025", Jan25)
+print("February 2025", Feb25)
 
 
